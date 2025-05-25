@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic HTML project where we embed the recipe of a Food, we will be making use of HTML elements to provide a nice hierarchy and structure to the recipe making it easy to understand and intuitive to a new user. However the lack of CSS would mean this will not be too pretty, however we will do our best with what we can. 
